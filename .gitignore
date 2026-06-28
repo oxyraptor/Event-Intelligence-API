@@ -1,0 +1,39 @@
+# Python bytecode and cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Virtual environments
+.venv/
+.venv312/
+
+# Local environment files
+.env
+*.env
+
+# Local runtime data
+assignment.db
+chroma_data/
+
+# Local workspace/editor artifacts
+.agents/
+.vscode/
+.idea/
+
+# Build and coverage output
+build/
+dist/
+htmlcov/
+.coverage
+.coverage.*
+
+# Project review document not needed in source control
+PROJECT_CODE_REVIEW.md
+
+# OS files
+.DS_Store
+Thumbs.db

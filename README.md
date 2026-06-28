@@ -6,7 +6,7 @@ FastAPI backend for collecting user events, running analytics, searching events 
 
 ### Requirements
 
-- Python 3.12 or later
+- Python 3.12 
 - `pip`
 - Optional: a virtual environment
 
